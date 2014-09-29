@@ -6,6 +6,7 @@
 ;; URL: https://github.com/gcla/helm-filesets
 ;; Version: 0.1
 ;; Keywords: filesets
+;; Package-Requires: ((helm "20140926") (filesets+ "20131226"))
 
 ;; This file is not part of GNU Emacs
 
